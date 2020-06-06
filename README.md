@@ -1,6 +1,6 @@
 ![react-hider](logo/react-hider-logo.jpg)
 
-# React Hider 🐰|✨
+# React Hider 🐰|✨ 
 
 ### Conditional Rendering Made Simple
 
