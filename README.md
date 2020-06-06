@@ -10,7 +10,7 @@
 <div align="center">
 <!-- Badges -->
 
-![Release](https://img.shields.io/badge/release-v0.1.1-success)![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)![License](https://img.shields.io/npm/l/react?color=blue)
+![Release](https://img.shields.io/badge/release-v0.1.1-success)&nbsp;![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)&nbsp;![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)&nbsp;![License](https://img.shields.io/npm/l/react?color=blue)
 
 </div>
 
