@@ -18,7 +18,7 @@
 </div>
 
 <div align="center">
-    <sub>Created by <a href="https://twitter.com/theoliveralr">Oliver ALR</a> and mantained with ❤️ and ☕️. Join me :godmode:</sub>
+    <sub>Created by <a href="https://twitter.com/theoliveralr">Oliver ALR</a> and mantained with ❤️ and ☕️. Join me just contributing :atom:</sub>
 </div>
 
 ## Features
