@@ -7,9 +7,13 @@
 
 <div align="center">
 <!-- Badges -->
+
 ![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)
+
 ![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)
+
 ![Release](https://img.shields.io/badge/release-v0.1.1-success)
+
 ![License](https://img.shields.io/npm/l/react?color=blue)
 </div>
 
@@ -21,7 +25,7 @@
 
 <p>Add features...</p>
 
-### License
+## License
 
 This project is licensed under the MIT license, Copyright © 2020 Oliver ALR
 For more information see `LICENSE.md`.
