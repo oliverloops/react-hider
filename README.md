@@ -1,5 +1,7 @@
 ![react-hider](logo/react-hider-logo.jpg)
 
+<br />
+
 <div align="center"><strong>Conditional Rendering Made Easy</strong></div>
 <div align="center">A minimalist show or not library based on conditional rendering foundations</div>
 
@@ -8,13 +10,8 @@
 <div align="center">
 <!-- Badges -->
 
-![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)
+![Release](https://img.shields.io/badge/release-v0.1.1-success)![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)![License](https://img.shields.io/npm/l/react?color=blue)
 
-![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)
-
-![Release](https://img.shields.io/badge/release-v0.1.1-success)
-
-![License](https://img.shields.io/npm/l/react?color=blue)
 </div>
 
 <div align="center">
@@ -27,5 +24,5 @@
 
 ## License
 
-This project is licensed under the MIT license, Copyright © 2020 Oliver ALR
+This project is licensed under the MIT license, Copyright © 2020 Oliver ALR.
 For more information see `LICENSE.md`.
