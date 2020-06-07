@@ -1,5 +1,5 @@
 /*
-    React Hider || V0.1.1 || MIT License || Made in Home with ❤️
+    React Hider || V1.0.0 || MIT License || Made in Home with ❤️
 */
 import React from 'react'
 /*

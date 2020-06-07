@@ -10,7 +10,7 @@
 <div align="center">
 <!-- Badges -->
 
-![Release](https://img.shields.io/badge/release-v0.1.1-success)&nbsp;![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)&nbsp;![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)&nbsp;![License](https://img.shields.io/npm/l/react?color=blue)
+![Release](https://img.shields.io/badge/release-v1.0.0-success)&nbsp;![Dependencies](https://img.shields.io/badge/dependencies-up%20to%20date-success)&nbsp;![Version](https://img.shields.io/github/v/release/facebook/react?logo=react)&nbsp;![License](https://img.shields.io/npm/l/react?color=blue)
 
 </div>
 
@@ -22,7 +22,7 @@
 
 <dl>
     <dt><i>Just one component</i></dt>
-    <dd>Wrap all your to-render components inside Hider component</dd>
+    <dd>Wrap all your to-render components inside Hider component.</dd>
 </dl>
 <dl>
     <dt><i>Less verbose components</i></dt>
@@ -36,6 +36,10 @@
     <dt><i>Inline if-else with conditional operator</i></dt>
     <dd>Render or not an expected value based on a boolean prop.</dd>
 </dl>
+
+## Examples Up and Running
+
+Add Examples Here...
 
 ## License
 
