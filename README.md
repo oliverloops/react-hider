@@ -50,7 +50,7 @@ import Hider from 'react-hider'
 ```
 
 Wrap first the component to show and second the component to hide 
-inside Hider or use pure raw jsx and provide a boolean(true/false) state: 
+inside Hider(library provided) or use pure raw jsx and provide a <strong>boolean(true/false)</strong> state: 
 
 ```jsx
 <Hider state={boolean}>
@@ -61,7 +61,7 @@ inside Hider or use pure raw jsx and provide a boolean(true/false) state:
 
 ## Examples Up and Running
 
-Show or Hide elements based on a boolean(true/false) pased to state prop:
+Show or Hide elements based on a <strong>boolean(true/false)</strong> pased to state prop:
 
 ```jsx
 const DisAppear = () => {
@@ -79,7 +79,7 @@ const DisAppear = () => {
 }
 ```
 
-Show just one single element just if the boolean state is true:
+Show just one single element just if the <strong>boolean state is true</strong>:
 
 ```jsx
 const Appear = () => {
