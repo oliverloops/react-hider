@@ -15,7 +15,7 @@
 </div>
 
 <div align="center">
-    <sub>Created by <a href="https://twitter.com/theoliveralr">Oliver ALR</a> and mantained with ❤️ and ☕️. Join me just contributing :atom:</sub>
+    <sub>Created by <a href="https://twitter.com/theoliveralr">Oliver ALR</a> and mantained with ❤️ and ☕️. Join me just contributing 💻</sub>
 </div>
 
 <br />
@@ -49,13 +49,19 @@ npm install react-hider
 import Hider from 'react-hider'
 ```
 
+Wrap first the component to show and second the component to hide 
+inside Hider or use pure raw jsx and provide a boolean(true/false) state: 
+
 ```jsx
-<Hider>
-    <MyComponent />
+<Hider state={boolean}>
+    <ComponentToShow />
+    <ComponentToHide />
 </Hider>
 ```
 
 ## Examples Up and Running
+
+Show or Hide elements based on a boolean(true/false) pased to state prop:
 
 ```jsx
 const DisAppear = () => {
@@ -72,6 +78,8 @@ const DisAppear = () => {
     )
 }
 ```
+
+Show just one single element just if the boolean state is true:
 
 ```jsx
 const Appear = () => {
