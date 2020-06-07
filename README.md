@@ -25,7 +25,7 @@
     <dd>Wrap all your to-render components inside Hider component</dd>
 
     <dt><i>Less verbose components</i></dt>
-    <dd>Simple as reduce dirty components doing more readable.</dd>
+    <dd>Simple as reduce dirty components doing more readable code.</dd>
 
     <dt><i>Inline if with && logical operator</i></dt>
     <dd>Render one single component if the condition is true.<dd>
