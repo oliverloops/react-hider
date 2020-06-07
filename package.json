@@ -1,32 +1,45 @@
 {
-  "name": "react-hider",
-  "version": "1.0.0",
-  "description": "",
-  "main": "dist/index.js",
-  "scripts": {
-    "build": "rollup -c",
-    "start": "rollup -c -w"
-  },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
-  "peerDependencies": {
-    "react": "^16.8.0",
-    "react-dom": "^16.8.0"
-  },
-  "files": [
-    "dist"
-  ],
-  "devDependencies": {
-    "@babel/core": "^7.10.2",
-    "@babel/preset-react": "^7.10.1",
-    "babel-core": "^6.26.3",
-    "babel-preset-react": "^6.24.1",
-    "babel-runtime": "^6.26.0",
-    "react": "^16.13.1",
-    "react-dom": "^16.13.1",
-    "rollup": "^2.13.1",
-    "rollup-plugin-babel": "^4.4.0",
-    "rollup-plugin-commonjs": "^10.1.0"
-  }
+    "name": "react-hider",
+    "version": "1.0.3",
+    "description": "Conditional Rendering Made Easy",
+    "main": "dist/index.js",
+    "scripts": {
+        "build": "rollup -c",
+        "start": "rollup -c -w"
+    },
+    "keywords": [
+        "Conditional Rendering",
+        "react hider",
+        "hider",
+        "react",
+        "rendering",
+        "logical rendering",
+        "hide elements",
+        "hide",
+        "conditional rendering"
+    ],
+    "author": "",
+    "license": "ISC",
+    "peerDependencies": {
+        "react": "^16.8.0",
+        "react-dom": "^16.8.0"
+    },
+    "files": [
+        "dist"
+    ],
+    "devDependencies": {
+        "@babel/core": "^7.10.2",
+        "@babel/preset-react": "^7.10.1",
+        "babel-core": "^6.26.3",
+        "babel-preset-react": "^6.24.1",
+        "babel-runtime": "^6.26.0",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "rollup": "^2.13.1",
+        "rollup-plugin-babel": "^4.4.0",
+        "rollup-plugin-commonjs": "^10.1.0"
+    },
+    "dependencies": {
+        "prettier": "^2.0.5"
+    }
 }

@@ -12,27 +12,15 @@ const Hider = ({ state, children }) => {
     const count = React.Children.count(children)
     // Show/Hide a single element based on boolean status
     if (count === 1) {
-        return (
-            <>
-                {state && <>{children}</>}
-            </>
-        )
+        return <>{state && <>{children}</>}</>
     }
     // Show/Hide elements based on component's boolean status
     else if (count === 2) {
-        return (
-            <>
-                {state ? (
-                    <>{children[0]}</>
-                ) : (
-                    <>{children[1]}</>
-                )}
-            </>
-        )
+        return <>{state ? <>{children[0]}</> : <>{children[1]}</>}</>
     }
     // Nothing is returned if there are n = 0 OR n > 2 children nodes
     else {
-        return <></>
+        return <>{children}</>
     }
 }
 //Export default module "d(^o^)p"
