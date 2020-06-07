@@ -18,6 +18,8 @@
     <sub>Created by <a href="https://twitter.com/theoliveralr">Oliver ALR</a> and mantained with ❤️ and ☕️. Join me just contributing :atom:</sub>
 </div>
 
+<br />
+
 ## Features
 
 <dl>
@@ -37,9 +39,54 @@
     <dd>Render or not an expected value based on a boolean prop.</dd>
 </dl>
 
+### Get Started
+
+```
+npm install react-hider
+```
+
+```
+import Hider from 'react-hider'
+```
+
+```jsx
+<Hider>
+    <MyComponent />
+</Hider>
+```
+
 ## Examples Up and Running
 
-Add Examples Here...
+```jsx
+const DisAppear = () => {
+    const [hide, setHide] = useState(true)
+
+    return (
+        <div>
+            <Hider state={hide}>
+                <Show />
+                <Hide />
+            </Hider>
+            <button onClick={() => setHide(false)}>Click to Change</button>
+        </div>
+    )
+}
+```
+
+```jsx
+const Appear = () => {
+    const [show, setShow] = useState(false)
+
+    return (
+        <div>
+            <Hider state={show}>
+                <Show />
+            </Hider>
+            <button onClick={() => setShow(true)}>Click to Show</button>
+        </div>
+    )
+}
+```
 
 ## License
 
