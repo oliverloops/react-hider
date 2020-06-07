@@ -23,13 +23,16 @@
 <dl>
     <dt><i>Just one component</i></dt>
     <dd>Wrap all your to-render components inside Hider component</dd>
-
+</dl>
+<dl>
     <dt><i>Less verbose components</i></dt>
     <dd>Simple as reduce dirty components doing more readable code.</dd>
-
+</dl>
+<dl>
     <dt><i>Inline if with && logical operator</i></dt>
     <dd>Render one single component if the condition is true.<dd>
-
+</dl>
+<dl>
     <dt><i>Inline if-else with conditional operator</i></dt>
     <dd>Render or not an expected value based on a boolean prop.</dd>
 </dl>
