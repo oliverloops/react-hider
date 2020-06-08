@@ -96,6 +96,29 @@ const Appear = () => {
 }
 ```
 
+You can use one or both <strong>unwrapped</strong> elements too:
+
+```jsx
+const DisAppear = () => {
+    const [hide, setHide] = useState(true)
+
+    return (
+        <div>
+            <Hider state={hide}>
+                <Show />
+                <span>
+                    <h2>I want to hide this content</h2>
+                    <small>This content is initially hided</small>
+                </span>
+            </Hider>
+            <button onClick={() => setHide(false)}>Click to Change</button>
+        </div>
+    )
+}
+```
+
+Just wrap inside Hider all the elements required even if this ones aren't inside a component.
+
 ## License
 
 This project is licensed under the MIT license, Copyright © 2020 Oliver ALR.
