@@ -50,7 +50,7 @@ import Hider from 'react-hider'
 ```
 
 Wrap first the component to show and second the component to hide
-inside Hider(library provided) or use pure raw jsx and provide a <strong>boolean(true/false)</strong> state:
+inside Hider component or use pure raw jsx and provide an initial <strong>boolean(true/false)</strong> state:
 
 ```jsx
 <Hider state={boolean}>
