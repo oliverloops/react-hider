@@ -38,6 +38,9 @@
     <dt><i>Inline if-else with conditional operator</i></dt>
     <dd>Render or not an expected value based on a boolean prop.</dd>
 </dl>
+<dl>
+     <dd>I'm rewriting all code base to TypeScript 😬</dd>
+</dl>
 
 ### Get Started
 
