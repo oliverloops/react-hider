@@ -39,7 +39,7 @@
     <dd>Render or not an expected value based on a boolean prop.</dd>
 </dl>
 <dl>
-     <dd>I'm rewriting all code base to TypeScript 😬</dd>
+     <dd>Working on version 1.1 😬</dd>
 </dl>
 
 ### Get Started
